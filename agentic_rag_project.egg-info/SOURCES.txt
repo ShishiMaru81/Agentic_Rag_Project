@@ -7,7 +7,6 @@ Exception/ExceptionHandling.py
 Exception/__init__.py
 Logger/__init__.py
 Logger/logging.py
-Propmt_Library/__init__.py
 Tools/__init__.py
 Tools/calculator_tool.py
 Tools/currency_convert_tool.py
@@ -24,5 +23,7 @@ Utils/save_document.py
 agentic_rag_project.egg-info/PKG-INFO
 agentic_rag_project.egg-info/SOURCES.txt
 agentic_rag_project.egg-info/dependency_links.txt
+agentic_rag_project.egg-info/requires.txt
 agentic_rag_project.egg-info/top_level.txt
 env/__init__.py
+prompt_library/__init__.py

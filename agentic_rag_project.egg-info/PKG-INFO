@@ -2,10 +2,11 @@ Metadata-Version: 2.4
 Name: agentic-rag-project
 Version: 0.1.0
 Summary: Add your description here
-Author: Your Name
-Author-email: your.email@example.com
+Author: sunny savita
+Author-email: anindya.paul@g.bracu.ac.bd
 Requires-Python: >=3.13
 Description-Content-Type: text/markdown
+Requires-Dist: pandas>=3.0.1
 Dynamic: author
 Dynamic: author-email
 
