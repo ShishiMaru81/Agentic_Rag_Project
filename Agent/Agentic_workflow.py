@@ -48,6 +48,7 @@ class Graph_Builder:
 
     def __call__(self, *args, **kwds):
         
-        pass
+        return self.build_graph()
+        
 
 
